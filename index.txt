@@ -33,7 +33,7 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-alt = Julia
+alt = Alexander
 
 alt = 250+ Projects Done
 
